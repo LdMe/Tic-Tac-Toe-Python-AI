@@ -1,5 +1,10 @@
 # Tic-Tac-Toe-Python-AI
-Tic Tac Toe game with AI  
+## ** _ Tic Tac Toe game with AI _** 
 Requirements for running:  
 python2.7  
-pygame  
+pygame    
+  
+### *Requirements:*  
+Python2.7  
+Pygame  
+  
